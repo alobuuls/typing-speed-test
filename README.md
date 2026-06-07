@@ -13,20 +13,16 @@
 </p>
 
 <p align="center">
-  <a href="https://alobuuls.github.io/typing-speed-test/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Pages-black?logo=github" alt="Github Page" />
-  </a>
-  <a href="https://github.com/alobuuls/typing-speed-test/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/alobuuls/typing-speed-test?style=social" alt="Github Stars" />
-  </a>
-  <a href="https://github.com/alobuuls/typing-speed-test/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/alobuuls/typing-speed-test" alt="Last Commit" />
-  </a>
+  <a href="https://alobuuls.github.io/typing-speed-test/" target="_blank"><img src="https://img.shields.io/badge/GitHub-Pages-black?logo=github" alt="Github Page" /></a>
+  <a href="https://github.com/alobuuls/typing-speed-test/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/alobuuls/typing-speed-test?style=social" alt="Github Stars" /></a>
+  <a href="https://github.com/alobuuls/typing-speed-test/commits/main" target="_blank"><img src="https://img.shields.io/github/last-commit/alobuuls/typing-speed-test" alt="Last Commit" /></a>
 </p>
 
 ---
 
-🌐 **Play here:** https://alobuuls.github.io/typing-speed-test/
+## 🌐 Live Demo
+
+https://alobuuls.github.io/typing-speed-test/
 
 ---
 
@@ -204,4 +200,7 @@ Practice and strengthen fundamental JavaScript concepts through an interactive a
 
 ## 📄 License
 
-This project is intended for educational purposes and is part of a personal portfolio.
+This project is intended for educational and portfolio purposes.
+
+Created by **Alondra Francisco**.
+
